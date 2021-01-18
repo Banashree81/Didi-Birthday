@@ -46,7 +46,7 @@ function preload(){
   giftCollectSnd = loadSound("mixkit-winning-a-coin.wav");
   playerLostSnd = loadSound("mixkit-player-losing-or-failing.wav");
   gameOverSnd = loadSound("mixkit-retro-game-over-1947.wav");
-  birthdaySng = loadSound("Happy_birthday_song.mp3");
+  birthdaySng = loadSound("happy_birthday_song.mp3");
 }
 
 function setup(){
